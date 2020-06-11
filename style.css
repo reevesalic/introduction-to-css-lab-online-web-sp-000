@@ -11,13 +11,14 @@ margin:auto;
 font-family:"Helvetica Neue";
 background:white;
 padding:30px;
-font-style: italic;
+
 }
 
 /* ID selector to select the element with id 'main-header' */
 #main-header {
   /* Your code here! */
   font-size: 22px;
+  font-style: italic;
   color:red;
 }
 
